@@ -1,0 +1,30 @@
+body {
+  margin: 12px;
+  background: #ffffff;
+  color: #111111;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 13px;
+}
+
+.page {
+  border-collapse: collapse;
+}
+
+.grid {
+  margin-top: 6px;
+  border-collapse: collapse;
+}
+
+.grid th {
+  background: #efefef;
+  text-align: left;
+}
+
+a {
+  color: #0033cc;
+}
+
+ul {
+  margin: 6px 0 0 18px;
+  padding: 0;
+}
